@@ -72,7 +72,7 @@ Based on the dashbaords insights, I have made some recommendation that Sales Mar
 
 -try to **increase its sales quantity** in **Patna**, **Surat** and **Kanpur** since they have lowest sales quantity.
 
--start their target campagin for **Prod047** and **Prod061** since they two are the** most profitable and most selling** products.
+-start their target campagin for **Prod047** and **Prod061** since they two are the **most profitable and most selling** products.
 
 -try to **give special benefits** to **Electronics** and **_Excel store_s** as they are their **most profitable customers**.
 
